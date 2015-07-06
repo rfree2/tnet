@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><Message><Date>2015-05-28</Date><Time>11:17:39</Time><Subject><![CDATA[Re: cjdns payments ideas]]></Subject><MessageID><![CDATA[5AB5278E-0A4A-4C2E-A9C9-70DDF1EA2BE0@7V2Y0yGpZjKgJH6zuUdH9v3NfnUmvBYLQukwvANvE]]></MessageID><ReplyBoard><![CDATA[public]]></ReplyBoard><Body><![CDATA[double_plus_good@mQz-Q-6IsU95NFiOHayE82g1nU7lAj0xV3nc6Ylz344 wrote :
+> ARP@7V2Y0yGpZjKgJH6zuUdH9v3-NfnUmvBYLQukwvA~NvE wrote :
+> 
+> 
+>>                    GNU LESSER GENERAL PUBLIC LICENSE
+>>                        Version 3, 29 June 2007
+>> 
+>>  Copyright (c) 2015 (2015-05-21 and later) person called "ARP" known by public key in Freenet: 
+>>  SSK@7V2Y0yGpZjKgJH6zuUdH9v3-NfnUmvBYLQukwvA~NvE,rUDha7N8eL2eJ3snQ3LT0kVyf~wGaOK5TFdvCJYugKg,AQACAAE/
+>> 
+>>  Everyone is permitted to copy and distribute verbatim copies
+>>  of this license document, but changing it is not allowed.
+>> 
+> 
+> Hi, FYI I think there is a typo. 
+> 
+> You edited the GPL text itself... the GPL text itself is "owned" (licensed) by the GPL team. You should not had edit that part, just copy it verbatim, and instead place a text on top saying that you release under this license :)
+> 
+> 
+
+Right! Thanks! This was just a typo.
+
+By the way, is anyone in position to add this to a git repository and publish further?
+
+
+
+Let me release the work again then. And GPG signed this time. Public key is attached; Same text as here is also attached.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+
+
+===== START OF LICENCES TEXT =====
+
+
+This work (following below in this text, after the licences text) has following licence(s), user can select and use which ever one/few/all he likes to use:
+
+
+The 2-clause BSD ( fyi see freenet:USK@F0EbQP1fqQ4dLJ6UiyLhEedPkLgSBbEkbT4QpZcfKf4,67mfE85A8QeNYw4sJZd7UgX8mLL2~1qG6j2f2bCkebc,AQACAAE/licenses/5/others/bsd2.htm )
+
+Copyright (c) 2015 (2015-05-21 and later) person called "ARP" known by public key in Freenet:
+SSK@7V2Y0yGpZjKgJH6zuUdH9v3-NfnUmvBYLQukwvA~NvE,rUDha7N8eL2eJ3snQ3LT0kVyf~wGaOK5TFdvCJYugKg,AQACAAE/
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+And the LGPLv3 ( fyi see: freenet:USK@F0EbQP1fqQ4dLJ6UiyLhEedPkLgSBbEkbT4QpZcfKf4,67mfE85A8QeNYw4sJZd7UgX8mLL2~1qG6j2f2bCkebc,AQACAAE/licenses/5/gnu/lgplv3.txt )
+For your information, the LGPLv3 licence text is also attached here below:
+
+
+
+                   GNU LESSER GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+
+  This version of the GNU Lesser General Public License incorporates
+the terms and conditions of version 3 of the GNU General Public
+License, supplemented by the additional permissions listed below.
+
+  0. Additional Definitions.
+
+  As used herein, "this License" refers to version 3 of the GNU Lesser
+General Public License, and the "GNU GPL" refers to version 3 of the GNU
+General Public License.
+
+  "The Library" refers to a covered work governed by this License,
+other than an Application or a Combined Work as defined below.
+
+  An "Application" is any work that makes use of an interface provided
+by the Library, but which is not otherwise based on the Library.
+Defining a subclass of a class defined by the Library is deemed a mode
+of using an interface provided by the Library.
+
+  A "Combined Work" is a work produced by combining or linking an
+Application with the Library.  The particular version of the Library
+with which the Combined Work was made is also called the "Linked
+Version".
+
+  The "Minimal Corresponding Source" for a Combined Work means the
+Corresponding Source for the Combined Work, excluding any source code
+for portions of the Combined Work that, considered in isolation, are
+based on the Application, and not on the Linked Version.
+
+  The "Corresponding Application Code" for a Combined Work means the
+object code and/or source code for the Application, including any data
+and utility programs needed for reproducing the Combined Work from the
+Application, but excluding the System Libraries of the Combined Work.
+
+  1. Exception to Section 3 of the GNU GPL.
+
+  You may convey a covered work under sections 3 and 4 of this License
+without being bound by section 3 of the GNU GPL.
+
+  2. Conveying Modified Versions.
+
+  If you modify a copy of the Library, and, in your modifications, a
+facility refers to a function or data to be supplied by an Application
+that uses the facility (other than as an argument passed when the
+facility is invoked), then you may convey a copy of the modified
+version:
+
+   a) under this License, provided that you make a good faith effort to
+   ensure that, in the event an Application does not supply the
+   function or data, the facility still operates, and performs
+   whatever part of its purpose remains meaningful, or
+
+   b) under the GNU GPL, with none of the additional permissions of
+   this License applicable to that copy.
+
+  3. Object Code Incorporating Material from Library Header Files.
+
+  The object code form of an Application may incorporate material from
+a header file that is part of the Library.  You may convey such object
+code under terms of your choice, provided that, if the incorporated
+material is not limited to numerical parameters, data structure
+layouts and accessors, or small macros, inline functions and templates
+(ten or fewer lines in length), you do both of the following:
+
+   a) Give prominent notice with each copy of the object code that the
+   Library is used in it and that the Library and its use are
+   covered by this License.
+
+   b) Accompany the object code with a copy of the GNU GPL and this license
+   document.
+
+  4. Combined Works.
+
+  You may convey a Combined Work under terms of your choice that,
+taken together, effectively do not restrict modification of the
+portions of the Library contained in the Combined Work and reverse
+engineering for debugging such modifications, if you also do each of
+the following:
+
+   a) Give prominent notice with each copy of the Combined Work that
+   the Library is used in it and that the Library and its use are
+   covered by this License.
+
+   b) Accompany the Combined Work with a copy of the GNU GPL and this license
+   document.
+
+   c) For a Combined Work that displays copyright notices during
+   execution, include the copyright notice for the Library among
+   these notices, as well as a reference directing the user to the
+   copies of the GNU GPL and this license document.
+
+   d) Do one of the following:
+
+       0) Convey the Minimal Corresponding Source under the terms of this
+       License, and the Corresponding Application Code in a form
+       suitable for, and under terms that permit, the user to
+       recombine or relink the Application with a modified version of
+       the Linked Version to produce a modified Combined Work, in the
+       manner specified by section 6 of the GNU GPL for conveying
+       Corresponding Source.
+
+       1) Use a suitable shared library mechanism for linking with the
+       Library.  A suitable mechanism is one that (a) uses at run time
+       a copy of the Library already present on the user's computer
+       system, and (b) will operate properly with a modified version
+       of the Library that is interface-compatible with the Linked
+       Version.
+
+   e) Provide Installation Information, but only if you would otherwise
+   be required to provide such information under section 6 of the
+   GNU GPL, and only to the extent that such information is
+   necessary to install and execute a modified version of the
+   Combined Work produced by recombining or relinking the
+   Application with a modified version of the Linked Version. (If
+   you use option 4d0, the Installation Information must accompany
+   the Minimal Corresponding Source and Corresponding Application
+   Code. If you use option 4d1, you must provide the Installation
+   Information in the manner specified by section 6 of the GNU GPL
+   for conveying Corresponding Source.)
+
+  5. Combined Libraries.
+
+  You may place library facilities that are a work based on the
+Library side by side in a single library together with other library
+facilities that are not Applications and are not covered by this
+License, and convey such a combined library under terms of your
+choice, if you do both of the following:
+
+   a) Accompany the combined library with a copy of the same work based
+   on the Library, uncombined with any other library facilities,
+   conveyed under the terms of this License.
+
+   b) Give prominent notice with the combined library that part of it
+   is a work based on the Library, and explaining where to find the
+   accompanying uncombined form of the same work.
+
+  6. Revised Versions of the GNU Lesser General Public License.
+
+  The Free Software Foundation may publish revised and/or new versions
+of the GNU Lesser General Public License from time to time. Such new
+versions will be similar in spirit to the present version, but may
+differ in detail to address new problems or concerns.
+
+  Each version is given a distinguishing version number. If the
+Library as you received it specifies that a certain numbered version
+of the GNU Lesser General Public License "or any later version"
+applies to it, you have the option of following the terms and
+conditions either of that published version or of any later version
+published by the Free Software Foundation. If the Library as you
+received it does not specify a version number of the GNU Lesser
+General Public License, you may choose any version of the GNU Lesser
+General Public License ever published by the Free Software Foundation.
+
+  If the Library as you received it specifies that a proxy can decide
+whether future versions of the GNU Lesser General Public License shall
+apply, that proxy's public statement of acceptance of any version is
+permanent authorization for you to choose that version for the
+Library.
+
+
+
+
+===== END OF LICENCES TEXT =====
+
+
+
+=====================================================================
+
+Ideas regarding tokens-trade payable cjdns network access
+
+=====================================================================
+
+Goals:
+Allow people to build own internet connections (ISP) replacing existing monopoly big-corp providers;
+Allow people to trade on free market in crypto-secured way, with own web-of-trust, replacing the traditional market + centralized police and law/judges.
+
+Solution:
+
+For the Internet access:
+- - we can use cjdns for the technical transport
+- - and for the payments we can use tokens
+- - tokens issues by each node, based on contract creating them
+- - trade of tokens happens between buyer, seller and market
+- - each part of trade is signed by these 3 parties, to protect from fraud
+- - in the end we buy "network tokens" that allow us e.g. to send 1 MB of data each
+- - the most innovative parts:
+- -- currency are self-issued tokens, created by each "user" (e.g. by each server)
+- -- they are backed only by their promise to do something for people who will buy their tokens
+- -- some tokens will be exchangable into network traffic
+- -- some tokens will be exchangable into bitcoin (issued by notary nodes)
+- -- some tokens will be exchangable into real world currency, e.g. USD
+- -- some tokens will be exchangable into real world goods, e.g. into Oil - oil contracts, gold contracts
+
+For the trade:
+- - same payments model can be used
+
+Trust of tokens:
+- - we do NOT use blockchain with PoW nor PoS like in case of bitcoin/altcoins
+- - this allows even millions of transactions per hour (in given node)
+- - trade is localized
+- - trade is effective and fast
+
+Trust mechanisms:
+- - 3-way signed transactions (e.g. like in Open Transactions)
+- - if someone cheats you, then you have crypto evidence of doing the trade
+
+- - judges: show then the evidence, they will ask on your behalf to finish the deal, they will issue certificate like "most wanted" for ID that will not comply with it's promises
+- - each customer can also just state his opinon about given trade ID
+
+- - WoT - web of trust - each user can select users (judges, customers) whos opinion he will trust
+- - WoT: avoid trade with IDs that others said are bad
+- - WoT: there will be "journalists" that will rate how truthful are opinions of others
+- - WoT: there will be "historians" who will look out for any censorship or lies by the journalists
+
+- - new ID to gain trust will spend work: e.g. solve captchas of seed-identities
+- - or solve hash-cash problems
+- - or pay/burn bitcoin/altcoin
+
+- - you can verify some evidence yourself
+- - you can verify bitcoin-related evidence if you have blockchain
+
+- - or you can use help of servers to get lightweight access to bitcoin.
+- - same for other coin-servers
+- - same for name-coin and DNS
+- - same for real-world DNS btw
+- - all of them are subject to review (users, judges, journalists, historians)
+
+- - pay to cjdns node for forwarding your data (trust does he DOES foward it)
+- -- note signed crypto chain of entire dialog; later in cooperation of his supposed neighbours you could partially prove if he did not forwarded it
+- - pay to cjdns node for getting your data to ipv6 destination. Demand confirmations of trafic signed by destination before payment.
+- -- they can prove if they provided the data without problem and got confirmation but you didn't pay up
+
+- - each node has own tokens
+- - so each node can run a micro exchange to exchange the tokens between nodes
+- - nodes can make a small profit
+- - investors can trade on these markets for profit and as result arbitrate the prices to real levels
+
+
+Allow "help for help" cooperation of routers to score each other and build cost-effective network.
+
+
+
+Use-case
+
+A ---> B ---> C ---> D
+
+A will simply buy from B e.g. "1 MB of traffic" and pay with tokens-A for example.
+
+
+
+Use-case
+
+A ---> B ---> C ---> D
+
+A will pay to B when he shows signed by D information that the traffic arrived to D.
+B could use similar arrangement with C to pay when D confirms.
+D's confirmation could be sent unencrypted so every node along the way can read it.
+Or some shared key could be used.
+
+
+
+Use-case
+
+A ---> B ---> C ---> D
+
+user A will pay (to user B) for delivering packet to D
+so
+user B will pay (to user C) for delivering packet to D
+so
+user C will deliver the pacet to D,
+get D's confirmation,
+and send back to B (and get the payment from B)
+then B will send back to A (and get the payment from A).
+
+
+Nodes that end up with tokens of other nodes will seek on the micro free markets a way to change them into tokens that they are issued by another/remote nodes like
+bitcoin-tokens issuers, to get a real price for them.
+
+
+
+
+
+
+
+
+
+
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBAgAGBQJVZuqkAAoJEKj1rGl7InjgJiwP/AnVItLpz41hb91hG9gp1WOI
+u4OctVLmSIuG3VTy3ssDTXHfsgFFNiNEry4VcTy0JdXgFpX3miuGClMkdVm266m/
+CX1D9ZmkCstfkqLTckrULfHGfe6fU2RrhUW0xiSm1uaBWI7GIY4pJCmXRvT7r6pZ
+HELOeUB39/GKu4GPJqMdqn6XneutYTv66t7C9JTMroz1FwlZZspm05RjUsz4lKjc
+JQ+vLwOPI70juevy+rHCy3xhLE4yX2IHVOUUFYK6ZeT0UJE6R0NaKkCkG9K0WurX
+C0sqbyAnfZyZQhLbR+06CkB4iaGt+C/3O4b+41sG3SR0mEn7hIlbrtJN79PG7SWA
+N/cTUzjH3tXSUnzn0PL80s6BONsnO9iAFXIdp7kAPLxmr5Jy26PwmHLYF8tBUXq/
+BDa0/+yMnQaMCTXl454NGPUCvpvUuPSxM924mVZtbhqdbMw4UZV2Si97SCki3gRN
+MwSZXbANXhJSXMcLeQWrlYHOiFaaap7GAfYVhnFT0teiA36l6veUyirUS8w+MOQr
+xKMwqGdbfHQxVOAG0F5/mQGemLuLTGVy3TUSlNXg4TpWmk0zwoLHElfB4XFJq4n2
+XQbreYPIC7dDqUod5sz1cO1ypgoIPmWioHY1pCRgvhxEZnVh42W1ZO0CT+L1OdFo
+NLyV6Mqy54F/T9UkwScz
+=eH1s
+-----END PGP SIGNATURE-----
+
+
+
+
+]]></Body><Boards><Board><![CDATA[public]]></Board></Boards><InReplyTo><Message><Order>0</Order><MessageID><![CDATA[5F5E16A7-435B-4095-AF8F-669B9B342DA2@mQzQ6IsU95NFiOHayE82g1nU7lAj0xV3nc6Ylz344]]></MessageID></Message><Message><Order>1</Order><MessageID><![CDATA[106803DA-3230-41DF-BAE1-EE63C3C19135@7V2Y0yGpZjKgJH6zuUdH9v3NfnUmvBYLQukwvANvE]]></MessageID></Message></InReplyTo><Attachments><File><Key><![CDATA[CHK@n~pADog5nvRwsGkySTRdsIT8ORM8sBdrSDiRMZtY0U8,6oyQKp71gAXxVXFwY1PwdOsh4qs~6pDHRAidxFf349Q,AAMC--8/cjdns-payidea-tosend2.txt.asc]]></Key><Size>15308</Size></File><File><Key><![CDATA[CHK@4Al2okwNmaYc9MqiSbwDLYkoeZaNmjifcvKglETGy-Y,fb4IVE3BRC5WIioGvFf7ESZha2Do0P4RoQb~LXpzgWg,AAMC--8/arp.asc]]></Key><Size>3240</Size></File></Attachments></Message>
